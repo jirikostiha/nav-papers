@@ -10,4 +10,11 @@ commandline
 dotnet
 CsvHelper
 Autofac
-repo
+Cryptographic
+OpenSSL
+SSL
+TLS
+KeePass
+LastPass
+OpenGL
+cheatsheet
