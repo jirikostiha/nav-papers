@@ -8,7 +8,6 @@ Git is a free and open source distributed version control system designed to han
 
 Simplilearn: [Git Tutorial](https://www.simplilearn.com/tutorials/git-tutorial)  
 
-
 ### GitFlow
 
 [Redgate Hub](https://www.red-gate.com/simple-talk/devops/tools/getting-started-with-gitflow)  

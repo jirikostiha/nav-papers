@@ -1,12 +1,12 @@
 # Docker
 
-[documentaion](https://docs.docker.com)
+[documentation](https://docs.docker.com)
 
 ## Tutorials
 
 [Docker Tutorial](https://www.tutorialspoint.com/docker)  
 
-[Docker for Beginers](https://docker-curriculum.com)  
+[Docker for Beginners](https://docker-curriculum.com)  
 
 [Docker 101 Tutorial](https://www.docker.com/101-tutorial)  
 
