@@ -45,3 +45,10 @@ algolia
 coredna
 toolset
 Atlassian’s
+PowerShell
+UTF
+WSL
+chatbots
+chatgpt
+xUnit
+Multithreading
