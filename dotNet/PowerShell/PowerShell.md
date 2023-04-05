@@ -2,10 +2,10 @@
 
 [documentation](https://learn.microsoft.com/en-us/powershell)
 
-## Commnity
+## Community
 
 [PowerShell.Org](https://powershell.org)  
 
-## Galeries
+## Galleries
 
 [PowerShell Gallery](https://www.powershellgallery.com)  
