@@ -1,3 +1,3 @@
 # Czech Law
 
-https://www.pracepropravniky.cz  
+[Current laws and patterns (cz)](https://www.pracepropravniky.cz)

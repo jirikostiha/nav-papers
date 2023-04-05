@@ -1,3 +1,3 @@
 # Global Markets
 
-https://www.finance-management.cz
+[definitions (cz)](https://www.finance-management.cz)
