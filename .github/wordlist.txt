@@ -52,3 +52,4 @@ chatbots
 chatgpt
 xUnit
 Multithreading
+BenchmarkDotNet
