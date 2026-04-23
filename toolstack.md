@@ -27,6 +27,7 @@
 ## 🧩 Diagrams
 
 - [**Draw.io (diagrams.net)**](https://app.diagrams.net/) – Web-based tool to create flowcharts and diagrams. **Free**
+- [**Mermaid**](https://mermaid.js.org/) – Text-based diagramming and charting tool for Markdown and docs. **Free (Open Source)**
 
 ## 📐 Tech Drawing
 
