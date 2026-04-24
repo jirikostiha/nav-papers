@@ -93,6 +93,8 @@
 
 ## 🛠️ Windows System Tools
 
+- [**Microsoft PowerToys**](https://learn.microsoft.com/en-us/windows/powertoys/) – Utilities that add productivity features to Windows. **Free (Open Source)**
+- [**Sysinternals Suite**](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) – Official Microsoft troubleshooting and diagnostic utilities bundle. **Free**
 - [**Process Explorer**](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) – Advanced system process viewer. **Free**
 - [**HWiNFO**](https://www.hwinfo.com/) – In-depth hardware diagnostic and monitoring tool. **Freemium**
 - [**Revo Uninstaller**](https://www.revouninstaller.com/) – Thorough uninstallation utility. **Freemium**
