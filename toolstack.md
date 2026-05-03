@@ -98,6 +98,7 @@
 - [**Process Explorer**](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) – Advanced system process viewer. **Free**
 - [**HWiNFO**](https://www.hwinfo.com/) – In-depth hardware diagnostic and monitoring tool. **Freemium**
 - [**Revo Uninstaller**](https://www.revouninstaller.com/) – Thorough uninstallation utility. **Freemium**
+- [**WizTree**](https://diskanalyzer.com/) – Fast disk space analyzer for Windows. **Free (Personal use)**
 - [**WhySoSlow**](https://www.resplendence.com/downloads) – Performance analyzer for system bottlenecks. **Free / Paid**
 - [**PCUsageViewer**](https://github.com/mtalhi/PCUsageViewer) – Monitor computer usage history. **Free (Open Source)**
 
