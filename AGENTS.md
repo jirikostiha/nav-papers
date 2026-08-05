@@ -7,4 +7,3 @@
   (for example: `merge`, `merge branch`, `Merge pull request ...`).
 - Use clear, specific, imperative wording.
 - Example: `add Mermaid to diagrams section in toolstack`.
-
