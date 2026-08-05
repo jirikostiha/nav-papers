@@ -21,7 +21,8 @@ All commits **MUST** follow Conventional Commits format:
 **Forbidden:** `feature`, `bugfix`, `hotfix`, `maintenance`, or any synonym.
 Non-canonical types **MUST** be normalized (e.g. `feature` → `feat`).
 
-**Testing Code Mapping:** If a commit contains changes **only** in tests, testing projects, and/or test-automation tooling (and no other source code), the commit type **MUST** be `test`.
+**Testing Code Mapping:** If a commit contains changes **only** in tests, testing projects,
+and/or test-automation tooling (and no other source code), the commit type **MUST** be `test`.
 
 ## Scope
 
@@ -46,7 +47,8 @@ Non-canonical types **MUST** be normalized (e.g. `feature` → `feat`).
 ## Description
 
 - Imperative mood, lowercase start, no trailing period. Do NOT use the word `add` as the first word (as it is implied by default).
-- **Component Prefixing:** When a commit affects a specific component, class, or method, you may prefix the description with the EXACT name of that entity (preserving its original capitalization).
+- **Component Prefixing:** When a commit affects a specific component, class, or method, you may prefix
+  the description with the EXACT name of that entity (preserving its original capitalization).
 - **Separator:** If using a component prefix, separate it from the rest of the description with a hyphen surrounded by spaces (`-`).
 - Example: `fix: Parser - correct token handling`
 - Example: `refactor(ui): Button - remove legacy variant`
