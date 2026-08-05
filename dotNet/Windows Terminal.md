@@ -1,4 +1,4 @@
-# Windows Terminal
+# Windows Terminal *(CLI: No)*
 
 Windows Terminal is a modern host application for the command-line shells you already love,
 like Command Prompt, PowerShell, and bash (via Windows Subsystem for Linux (WSL)).

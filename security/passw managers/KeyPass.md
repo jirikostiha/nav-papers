@@ -1,4 +1,4 @@
-# KeyPass
+# KeyPass *(CLI: No)*
 
 Light-weight and easy-to-use password manager.
 

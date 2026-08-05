@@ -1,3 +1,3 @@
-# Amazon Web Services (AWS)
+# Amazon Web Services (AWS) *(CLI: Yes)*
 
 [home](https://aws.amazon.com)  

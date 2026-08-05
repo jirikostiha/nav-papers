@@ -1,4 +1,4 @@
-# Docker
+# Docker *(CLI: Yes)*
 
 [documentation](https://docs.docker.com)
 

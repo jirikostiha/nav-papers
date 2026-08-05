@@ -1,4 +1,4 @@
-# OpenSSL
+# OpenSSL *(CLI: Yes)*
 
 Cryptography and SSL/TLS Toolkit  
 

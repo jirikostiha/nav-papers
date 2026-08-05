@@ -1,4 +1,4 @@
-# Jira
+# Jira *(CLI: Yes)*
 
 [home](https://www.atlassian.com/software/jira)
 

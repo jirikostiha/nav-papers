@@ -1,4 +1,4 @@
-# Chocolatey
+# Chocolatey *(CLI: Yes)*
 
 The Package Manager for Windows
 

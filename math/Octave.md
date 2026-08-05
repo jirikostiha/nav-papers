@@ -1,4 +1,4 @@
-# Octave
+# Octave *(CLI: Yes)*
 
 Scientific Programming Language  
 

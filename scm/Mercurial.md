@@ -1,4 +1,4 @@
-# Mercurial
+# Mercurial *(CLI: Yes)*
 
 Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface.  
 

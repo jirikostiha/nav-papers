@@ -1,4 +1,4 @@
-# Visual Studio
+# Visual Studio *(CLI: Yes)*
 
 [home](https://visualstudio.microsoft.com)  
 
@@ -15,5 +15,3 @@
 ## Tutorials
 
 ## Commands
-
-## Cli

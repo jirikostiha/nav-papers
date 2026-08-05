@@ -1,4 +1,4 @@
-# SQLite
+# SQLite *(CLI: Yes)*
 
 [home](https://sqlite.org)  
 

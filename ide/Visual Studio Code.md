@@ -1,4 +1,4 @@
-# Visual Studio Code
+# Visual Studio Code *(CLI: Yes)*
 
 [home](https://code.visualstudio.com)  
 
@@ -20,5 +20,3 @@
 ## Tutorials
 
 ## Commands
-
-## Cli

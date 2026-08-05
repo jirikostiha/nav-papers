@@ -1,4 +1,4 @@
-# OpenGL
+# OpenGL *(CLI: No)*
 
 The Industry's Foundation for High Performance Graphics
 FROM GAMES TO VIRTUAL REALITY, MOBILE PHONES TO SUPERCOMPUTERS  

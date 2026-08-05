@@ -1,4 +1,4 @@
-# NuGet
+# NuGet *(CLI: Yes)*
 
 [home](https://www.nuget.org/)  
 
@@ -9,5 +9,3 @@
 [Common NuGet configurations](https://learn.microsoft.com/en-us/nuget/consume-packages/configuring-nuget-behavior)
 
 ## Commands
-
-## Cli

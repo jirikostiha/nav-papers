@@ -1,4 +1,4 @@
-# Jenkins
+# Jenkins *(CLI: Yes)*
 
 Build great things at any scale.
 
