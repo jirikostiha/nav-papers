@@ -71,12 +71,14 @@
 ## 🧾 Office Software
 
 - [**LibreOffice**](https://www.libreoffice.org/) – Full-featured office suite. **Free (Open Source)**
-- [**Microsoft 365 Free Apps**](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web) – Online Word, Excel, PowerPoint apps. **Free (Online only)**
+- [**Microsoft 365 Free Apps**](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web) – Online Word,
+  Excel, PowerPoint apps. **Free (Online only)**
 - [**WPS Office**](https://www.wps.com/) – Lightweight office suite alternative. **Freemium**
 
 ## 🛡️ Antivirus Software
 
-- [**Windows Security**](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-frequently-asked-questions-2f64fae1-b7c3-3d0c-6036-2f20cf63f6b6) – Built-in Windows antivirus. **Free**
+- [**Windows Security**](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-frequently-asked-questions-2f64fae1-b7c3-3d0c-6036-2f20cf63f6b6)
+  – Built-in Windows antivirus. **Free**
 - [**Avast Free Antivirus**](https://www.avast.com/en-us/free-antivirus-download) – Antivirus for personal use. **Freemium**
 - [**Malwarebytes**](https://www.malwarebytes.com/) – Anti-malware and spyware protection. **Freemium**
 - [**VirusTotal**](https://www.virustotal.com/) – Online malware scanning for files and URLs. **Free**
@@ -94,7 +96,8 @@
 ## 🛠️ Windows System Tools
 
 - [**Microsoft PowerToys**](https://learn.microsoft.com/en-us/windows/powertoys/) – Utilities that add productivity features to Windows. **Free (Open Source)**
-- [**Sysinternals Suite**](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) – Official Microsoft troubleshooting and diagnostic utilities bundle. **Free**
+- [**Sysinternals Suite**](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) – Official Microsoft
+  troubleshooting and diagnostic utilities bundle. **Free**
 - [**Process Explorer**](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) – Advanced system process viewer. **Free**
 - [**HWiNFO**](https://www.hwinfo.com/) – In-depth hardware diagnostic and monitoring tool. **Freemium**
 - [**Revo Uninstaller**](https://www.revouninstaller.com/) – Thorough uninstallation utility. **Freemium**
