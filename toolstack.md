@@ -105,3 +105,14 @@
 ## 📱 Social Networks
 
 - [**X (Twitter)**](https://x.com/) – Social media platform for real-time news and discussion. **Free / Paid features**
+
+## 🤖 AI Tools
+
+- [**ccusage**](https://github.com/ryoppippi/ccusage) – Token usage and cost tracking for Claude Code and other agent CLIs. **Free (Open Source)**
+- [**RTK**](https://github.com/rtk-ai/rtk) – CLI proxy that compresses bash output before it reaches the LLM. Claims 60-90% token savings. **Free (Open Source)**
+- [**Caveman Claude**](https://github.com/amanattar/caveman-claude-skill) – Skill that switches Claude to terse
+  "caveman" responses to cut output tokens. **Free (Open Source)**
+- [**Karpathy's skills repo**](https://github.com/multica-ai/andrej-karpathy-skills) – A CLAUDE.md file with four
+  principles derived from Karpathy's observations on LLM coding pitfalls. **Free (Open Source)**
+- [**Graphify**](https://github.com/safishamsi/graphify) – Builds a local knowledge graph of your codebase so the
+  agent queries the graph instead of re-reading files. **Free (Open Source)**
