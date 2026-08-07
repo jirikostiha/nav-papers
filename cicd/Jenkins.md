@@ -1,8 +1,9 @@
-# Jenkins *(CLI: Yes)*
+# Jenkins
 
 Build great things at any scale.
 
 [home](https://www.jenkins.io/)
+yes
 
 ## Pipelines
 

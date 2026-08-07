@@ -1,6 +1,7 @@
-# Redis *(CLI: Yes)*
+# Redis
 
 [home](https://redis.io/)
+[Redis CLI](https://redis.io/docs/ui/cli)
 
 ## Tutorials
 
@@ -12,8 +13,6 @@ Youtube: [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj9
 Redis: [Commands](https://redis.io/commands)  
 Redis: [Command list](https://redis.io/commands/command-list)  
 QuickRef.ME: [Redis cheatsheet](https://quickref.me/redis)  
-
-Redis: [Redis CLI](https://redis.io/docs/ui/cli)
 
 ## Clients
 

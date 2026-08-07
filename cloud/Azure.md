@@ -1,3 +1,4 @@
-# Microsoft Azure *(CLI: Yes)*
+# Microsoft Azure
 
 [home](https://azure.microsoft.com)
+yes

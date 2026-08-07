@@ -1,3 +1,4 @@
-# GitLab *(CLI: Yes)*
+# GitLab
 
 [home](https://about.gitlab.com/)  
+yes

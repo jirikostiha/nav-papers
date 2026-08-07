@@ -1,3 +1,3 @@
-# Serilog *(CLI: No)*
+# Serilog
 
 [home](https://serilog.net)  

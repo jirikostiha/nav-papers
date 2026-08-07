@@ -1,3 +1,4 @@
-# Google Cloud Platform *(CLI: Yes)*
+# Google Cloud Platform
 
 [home](https://cloud.google.com)  
+yes

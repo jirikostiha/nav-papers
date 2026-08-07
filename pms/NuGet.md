@@ -1,6 +1,7 @@
-# NuGet *(CLI: Yes)*
+# NuGet
 
 [home](https://www.nuget.org/)  
+yes
 
 [wikipedia](https://en.wikipedia.org/wiki/NuGet)  
 

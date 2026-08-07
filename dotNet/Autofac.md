@@ -1,3 +1,3 @@
-# Autofac *(CLI: No)*
+# Autofac
 
 [home](https://autofac.org)  

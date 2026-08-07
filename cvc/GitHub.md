@@ -1,3 +1,4 @@
-# GitHub *(CLI: Yes)*
+# GitHub
 
 [home](https://github.com/home)  
+yes

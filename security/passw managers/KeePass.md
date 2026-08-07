@@ -1,5 +1,6 @@
-# KeePass *(CLI: No)*
+# KeePass
 
 Light-weight and easy-to-use password manager.
 
 [home](https://keepass.info)
+yes

@@ -1,1 +1,1 @@
-# Xtb *(CLI: No)*
+# Xtb
