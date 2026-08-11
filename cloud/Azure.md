@@ -1,4 +1,4 @@
 # Microsoft Azure
 
 [home](https://azure.microsoft.com)
-yes
+CLI yes

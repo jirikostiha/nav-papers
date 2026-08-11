@@ -1,7 +1,7 @@
 # SQLite
 
 [home](https://sqlite.org)  
-yes
+CLI yes
 
 ## Tutorials
 

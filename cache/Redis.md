@@ -1,7 +1,7 @@
 # Redis
 
 [home](https://redis.io/)
-[Redis CLI](https://redis.io/docs/ui/cli)
+[CLI](https://redis.io/docs/ui/cli)
 
 ## Tutorials
 

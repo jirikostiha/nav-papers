@@ -7,4 +7,4 @@ Scientific Programming Language
 * Drop-in compatible with many Matlab scripts
 
 [home](https://octave.org)  
-yes
+CLI yes

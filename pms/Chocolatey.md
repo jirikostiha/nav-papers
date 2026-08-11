@@ -3,4 +3,4 @@
 The Package Manager for Windows
 
 [home](https://chocolatey.org)  
-yes
+CLI yes

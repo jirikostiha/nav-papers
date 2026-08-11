@@ -1,7 +1,7 @@
 # Visual Studio Code
 
 [home](https://code.visualstudio.com)  
-yes
+CLI yes
 
 ## Extensions
 

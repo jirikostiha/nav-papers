@@ -6,4 +6,4 @@ Its main features include multiple tabs, panes, Unicode and UTF-8 character supp
 and the ability to create your own themes and customize text, colors, backgrounds, and shortcuts.  
 
 [home](https://learn.microsoft.com/en-us/windows/terminal/)
-yes
+CLI yes

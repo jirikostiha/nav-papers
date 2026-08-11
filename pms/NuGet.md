@@ -1,7 +1,7 @@
 # NuGet
 
 [home](https://www.nuget.org/)  
-yes
+CLI yes
 
 [wikipedia](https://en.wikipedia.org/wiki/NuGet)  
 

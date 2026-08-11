@@ -1,3 +1,3 @@
 # Helm
 
-yes
+CLI yes

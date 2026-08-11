@@ -1,7 +1,7 @@
 # Visual Studio
 
 [home](https://visualstudio.microsoft.com)  
-yes
+CLI yes
 
 ## Extensions
 

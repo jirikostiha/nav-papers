@@ -1,6 +1,6 @@
 # Docker
 
-yes
+CLI yes
 
 [documentation](https://docs.docker.com)
 
