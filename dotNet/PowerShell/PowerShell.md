@@ -1,5 +1,7 @@
 # PowerShell
 
+CLI yes
+
 [documentation](https://learn.microsoft.com/en-us/powershell)
 
 ## Community

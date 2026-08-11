@@ -1,6 +1,7 @@
 # Visual Studio Code
 
 [home](https://code.visualstudio.com)  
+CLI yes
 
 ## Extensions
 
@@ -20,5 +21,3 @@
 ## Tutorials
 
 ## Commands
-
-## Cli

@@ -3,6 +3,7 @@
 Build great things at any scale.
 
 [home](https://www.jenkins.io/)
+CLI yes
 
 ## Pipelines
 

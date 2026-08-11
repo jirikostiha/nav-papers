@@ -1,5 +1,7 @@
 # Docker
 
+CLI yes
+
 [documentation](https://docs.docker.com)
 
 ## Tutorials

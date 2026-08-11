@@ -1,6 +1,7 @@
 # Visual Studio
 
 [home](https://visualstudio.microsoft.com)  
+CLI yes
 
 ## Extensions
 
@@ -15,5 +16,3 @@
 ## Tutorials
 
 ## Commands
-
-## Cli

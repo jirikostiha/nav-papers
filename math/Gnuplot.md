@@ -7,3 +7,4 @@ but has grown to support many non-interactive uses such as web scripting.
 It is also used as a plotting engine by third-party applications like Octave.  
 
 [home](http://gnuplot.info)  
+CLI yes

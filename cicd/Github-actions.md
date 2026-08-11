@@ -4,6 +4,7 @@ Automate, customize, and execute your software development workflows right in yo
 You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.
 
 [home](https://docs.github.com/en/actions)  
+CLI yes
 
 ## Tutorials
 
