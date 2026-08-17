@@ -117,7 +117,7 @@
   Antigravity**](https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/) – Agentic development platform to
   orchestrate AI agents. **Free / Paid**
 - [**Claude Code**](https://code.claude.com/docs/en/overview) – Anthropic's agentic coding tool for the terminal. **Free / Paid**
-- [**Cursor**](https://cursor.com/) – AI coding agent and software development environment. **Freemium**
+- [**Cursor**](https://cursor.com/) – AI coding agent and software development environment with Codex, Claude Code, and Antigravity integration. **Freemium**
 - [**ccusage**](https://github.com/ryoppippi/ccusage) – Token usage and cost tracking for Claude Code and other agent CLIs. **Free (Open Source)**
 - [**RTK**](https://github.com/rtk-ai/rtk) – CLI proxy that compresses bash output before it reaches the LLM. Claims 60-90% token savings. **Free (Open Source)**
 - [**Caveman Claude**](https://github.com/amanattar/caveman-claude-skill) – Skill that switches Claude to terse
