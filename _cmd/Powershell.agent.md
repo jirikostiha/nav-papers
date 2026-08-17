@@ -45,8 +45,8 @@ version: 2026-07-16
 
 - For shared functions, add Pester tests (Arrange/Act/Assert) for core and edge-case behavior.
 - Before submitting changes, run at minimum:
-    - `Invoke-ScriptAnalyzer`
-    - relevant Pester tests
+  - `Invoke-ScriptAnalyzer`
+  - relevant Pester tests
 - Do not silence analyzer findings without a clear, code-level justification.
 
 ## 7. Documentation
