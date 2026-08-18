@@ -111,6 +111,7 @@
 
 ## 🤖 AI Tools
 
+- [**Hermes Agent**](https://hermes-agent.org/) – The AI agent that grows with you. **Free (Open Source)**
 - [**Codex for Open Source**](https://openai.com/form/codex-for-oss/) – AI-powered code review and security tools for open source
   projects. **Free (for Open Source)**
 - [**Google
