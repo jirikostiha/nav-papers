@@ -111,9 +111,8 @@ troubleshooting and diagnostic utilities bundle. **Free**
 
 ## 🤖 AI Tools
 
-* [**Codex for Open Source**](https://openai.com/form/codex-for-oss/) – AI-powered code review and security tools for open source
-- [**Hermes Agent**](https://hermes-agent.org/) – The AI agent that grows with you. **Free (Open Source)**
-projects. **Free (for Open Source)**
+* [**Codex for Open Source**](https://openai.com/form/codex-for-oss/) – AI-powered code review and security tools for open source projects. **Free (for Open Source)**
+* [**Hermes Agent**](https://hermes-agent.org/) – The AI agent that grows with you. **Free (Open Source)**
 * [**Google
 Antigravity**](https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/) – Agentic development platform to
 orchestrate AI agents. **Free / Paid**
@@ -123,6 +122,3 @@ orchestrate AI agents. **Free / Paid**
 * [**RTK**](https://github.com/rtk-ai/rtk) – CLI proxy that compresses bash output before it reaches the LLM. Claims 60-90% token savings. **Free (Open Source)**
 * [**Caveman Claude**](https://github.com/amanattar/caveman-claude-skill) – Skill that switches Claude to terse
 "caveman" responses to cut output tokens. **Free (Open Source)**
-
-
-
