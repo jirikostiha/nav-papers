@@ -21,6 +21,7 @@ When creating or revising a navigation paper:
   - If official MCP server link exists: `[MCP](<url>)`
   - If built-in MCP server exists without standalone page: `MCP yes`
   - If an unofficial MCP server exists: `[MCP](<url>) (unofficial)`
+  - If multiple alternatives exist: list each on a separate line (with two trailing spaces).
   - If no MCP server exists: omit.
 - **Line breaks**: End every link line in the header block with two trailing spaces (`  `).
 - **Formatting**: Adhere to markdownlint (lines ≤ 160 characters, single H1 heading).

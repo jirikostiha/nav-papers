@@ -2,4 +2,5 @@
 
 [home](https://aws.amazon.com)  
 [CLI](https://aws.amazon.com/cli/)  
-[MCP](https://github.com/aws/mcp-proxy-for-aws)
+[MCP](https://github.com/aws/mcp-proxy-for-aws)  
+[MCP](https://github.com/RafalWilinski/aws-mcp) (unofficial)

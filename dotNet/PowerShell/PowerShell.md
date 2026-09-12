@@ -2,7 +2,8 @@
 
 [documentation](https://learn.microsoft.com/en-us/powershell)  
 [CLI](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pwsh)  
-[MCP](https://github.com/yotsuda/PowerShell.MCP) (unofficial)
+[MCP](https://github.com/yotsuda/PowerShell.MCP) (unofficial)  
+[MCP](https://github.com/dfinke/mcp-powershell-exec) (unofficial)
 
 ## Community
 

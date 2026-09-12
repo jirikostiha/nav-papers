@@ -5,7 +5,8 @@ Text-based diagramming and charting tool for Markdown and docs.
 [home](https://mermaid.js.org/)  
 [documentation](https://mermaid.js.org/intro/)  
 [CLI](https://github.com/mermaid-js/mermaid-cli)  
-[MCP](https://github.com/hustcc/mcp-mermaid) (unofficial)
+[MCP](https://github.com/hustcc/mcp-mermaid) (unofficial)  
+[MCP](https://github.com/peng-shawn/mermaid-mcp-server) (unofficial)
 
 ## Tutorials
 
