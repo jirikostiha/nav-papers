@@ -39,7 +39,7 @@ Small utilities, web services, and minor tools that don't warrant their own pape
 
 ## 🛡️ Security (lightweight)
 
-* [**Windows Security**](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-frequently-asked-questions-2f64fae1-b7c3-3d0c-6036-2f20cf63f6b6) – Built-in Windows antivirus.
+* [**Windows Security**](https://support.microsoft.com/help/4013263) – Built-in Windows antivirus.
 * [**VirusTotal**](https://www.virustotal.com/) – Online malware scanning for files and URLs.
 
 ## ✅ Productivity (lightweight)

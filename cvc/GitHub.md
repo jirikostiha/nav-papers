@@ -1,4 +1,5 @@
 # GitHub
 
 [home](https://github.com/home)  
-CLI yes
+[CLI](https://cli.github.com/)  
+[MCP](https://github.com/github/github-mcp-server)

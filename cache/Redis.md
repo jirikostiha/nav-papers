@@ -1,7 +1,8 @@
 # Redis
 
-[home](https://redis.io/)
-[CLI](https://redis.io/docs/ui/cli)
+[home](https://redis.io/)  
+[CLI](https://redis.io/docs/latest/develop/connect/cli/)  
+[MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/redis)
 
 ## Tutorials
 

@@ -35,7 +35,8 @@ they are the source of truth for any category-specific choice.
 Optional 1–3 line description (usually the product's own tagline).
 
 [home](https://example.com)  
-CLI yes
+[CLI](https://example.com/cli)  
+[MCP](https://example.com/mcp)  
 
 ## Tutorials
 
@@ -43,8 +44,22 @@ Source: [Tutorial title](https://example.com/tutorial)
 ```
 
 - `# Title` = the product's proper name (matches filename).
-- Home/CLI block: `[home](…)` (or `[documentation](…)`), plus `CLI yes` or
-  `[CLI](…/cli)`. Optional `[wikipedia](…)`.
+- Home/CLI/MCP block:
+  - `[home](…)` (or `[documentation](…)`).
+  - CLI:
+    - Official documentation/web link: `[CLI](…/cli)`
+    - Standalone utility or no dedicated link: `CLI yes`
+    - Unofficial CLI: `[CLI](…) (unofficial)`
+    - If product has no CLI: omit.
+  - MCP Server:
+    - Official MCP server link: `[MCP](…)`
+    - Built-in MCP without dedicated link: `MCP yes`
+    - Unofficial MCP server: `[MCP](…) (unofficial)`
+    - Multiple alternatives: if multiple MCP alternatives exist (e.g. official and community, or multiple implementations), list each on its own line:
+      `[MCP](https://example.com/official-mcp)  `
+      `[MCP](https://github.com/org/alt-mcp) (unofficial)  `
+    - If no MCP server exists: omit.
+  - Optional `[wikipedia](…)`.
 - `##` sections group links, chosen to fit the tool: `Tutorials`, `Commands`,
   `Clients`, `Extensions` (bullet list), databases use `Connection strings` /
   `DB Viewers` / `Adapters` / `Query Builders`, screencasts go under a

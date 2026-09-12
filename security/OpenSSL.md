@@ -3,4 +3,4 @@
 Cryptography and SSL/TLS Toolkit  
 
 [home](https://www.openssl.org)  
-CLI yes
+[CLI](https://docs.openssl.org/master/man1/openssl/)

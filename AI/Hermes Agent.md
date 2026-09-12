@@ -1,4 +1,4 @@
 # Hermes Agent
 
-[home](https://hermes-agent.nousresearch.com/)
+[home](https://hermes-agent.nousresearch.com/)  
 CLI yes

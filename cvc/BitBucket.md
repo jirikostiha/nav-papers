@@ -2,5 +2,6 @@
 
 With Jira integration, and built-in CI/CD, Bitbucket Cloud is the native Git tool.
 
-[home](https://bitbucket.org)
-CLI yes
+[home](https://bitbucket.org)  
+[CLI](https://github.com/dae/bitbucket-cli) (unofficial)  
+[MCP](https://github.com/atlassian/atlassian-mcp-server)

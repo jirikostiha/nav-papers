@@ -1,7 +1,8 @@
 # SQLite
 
 [home](https://sqlite.org)  
-CLI yes
+[CLI](https://sqlite.org/cli.html)  
+[MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite)
 
 ## Tutorials
 

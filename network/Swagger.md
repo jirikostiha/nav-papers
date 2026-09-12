@@ -4,4 +4,4 @@ Simplify API development for users, teams, and enterprises with the Swagger open
 Find out how Swagger can help you design and document your APIs at scale.
 
 [home](https://swagger.io)  
-CLI yes
+[CLI](https://swagger.io/docs/open-source-tools/swagger-codegen/)

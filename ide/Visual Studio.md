@@ -1,7 +1,7 @@
 # Visual Studio
 
 [home](https://visualstudio.microsoft.com)  
-CLI yes
+[CLI](https://learn.microsoft.com/en-us/visualstudio/ide/reference/devenv-command-line-switches)
 
 ## Extensions
 

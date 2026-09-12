@@ -1,7 +1,7 @@
 # Visual Studio Code
 
 [home](https://code.visualstudio.com)  
-CLI yes
+[CLI](https://code.visualstudio.com/docs/editor/command-line)
 
 ## Extensions
 

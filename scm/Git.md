@@ -4,7 +4,8 @@ Git is a free and open source distributed version control system designed to han
 Git is easy to learn and has a tiny footprint with lightning fast performance.  
 
 [home](https://git-scm.com)  
-CLI yes
+CLI yes  
+[MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)
 
 ## Tutorials
 

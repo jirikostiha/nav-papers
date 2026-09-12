@@ -1,7 +1,7 @@
 # NuGet
 
 [home](https://www.nuget.org/)  
-CLI yes
+[CLI](https://learn.microsoft.com/en-us/nuget/reference/nuget-exe-cli-reference)  
 
 [wikipedia](https://en.wikipedia.org/wiki/NuGet)  
 

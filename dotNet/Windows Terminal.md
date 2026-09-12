@@ -5,5 +5,5 @@ like Command Prompt, PowerShell, and bash (via Windows Subsystem for Linux (WSL)
 Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine,
 and the ability to create your own themes and customize text, colors, backgrounds, and shortcuts.  
 
-[home](https://learn.microsoft.com/en-us/windows/terminal/)
-CLI yes
+[home](https://learn.microsoft.com/en-us/windows/terminal/)  
+[CLI](https://learn.microsoft.com/en-us/windows/terminal/command-line-arguments)

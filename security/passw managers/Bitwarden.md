@@ -4,4 +4,5 @@ Open-source, cross-platform password manager.
 
 [home](https://bitwarden.com/)  
 [documentation](https://bitwarden.com/help/)  
-CLI yes
+[CLI](https://bitwarden.com/help/cli/)  
+[MCP](https://github.com/bitwarden/mcp-server)

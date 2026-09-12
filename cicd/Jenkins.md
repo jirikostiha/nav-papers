@@ -2,8 +2,9 @@
 
 Build great things at any scale.
 
-[home](https://www.jenkins.io/)
-CLI yes
+[home](https://www.jenkins.io/)  
+[CLI](https://www.jenkins.io/doc/book/managing/cli/)  
+[MCP](https://github.com/lanbaoshen/mcp-jenkins) (unofficial)
 
 ## Pipelines
 

@@ -4,4 +4,5 @@ Postman is an API platform for building and using APIs.
 Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 
 [home](https://www.postman.com)  
-CLI yes
+[CLI](https://learning.postman.com/docs/postman-cli/postman-cli-overview/)  
+[MCP](https://github.com/postmanlabs/postman-mcp-server)
