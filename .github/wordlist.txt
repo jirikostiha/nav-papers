@@ -54,3 +54,5 @@ xUnit
 Multithreading
 BenchmarkDotNet
 Tailscale
+Nousresearch
+Axiomlabs
