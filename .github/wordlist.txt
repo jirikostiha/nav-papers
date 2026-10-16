@@ -56,3 +56,4 @@ BenchmarkDotNet
 Tailscale
 Nousresearch
 Axiomlabs
+Obsidian
