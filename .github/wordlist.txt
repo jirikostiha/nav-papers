@@ -57,3 +57,8 @@ Tailscale
 Nousresearch
 Axiomlabs
 Obsidian
+
+aria
+qBittorrent
+BitTorrent
+Metalink
